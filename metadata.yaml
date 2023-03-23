@@ -1,0 +1,25 @@
+_repo: The-old-South-b-A-monograph_70293
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamill, Howard Melancthon
+    gutenberg_agent_id: '55689'
+    url: http://www.gutenberg.org/2009/agents/55689
+description: ''
+gutenberg_issued: '2023-03-15'
+identifiers:
+  gutenberg: '70293'
+language: en
+pgterms:marc905: 20230122171839hamill
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Bob Taylor, and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bMethodist Episcopal Church, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The old South : $b A monograph'
+url: http://www.gutenberg.org/ebooks/70293
